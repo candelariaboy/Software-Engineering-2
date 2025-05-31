@@ -1,6 +1,12 @@
 # Software-Engineering-2
 
 # GROUP-3
+CANDELARIA, ERNESTO B.
+BARBADILLO, BRENT JUSTINE P.
+OXINA, AZZALEAH FAITH G.
+TRILLANA, MARK JOSEPH C.
+LUNA, JOV MATTHEW
+
 
 **Project Title:** Municipal of Sta. Cruz Sports Committee Program and Activity Monitoring System with Online Registration
 
