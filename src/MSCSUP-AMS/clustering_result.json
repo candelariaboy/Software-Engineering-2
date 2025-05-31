@@ -1,0 +1,114 @@
+{
+  "clusters": [
+    {
+      "gender": "Male",
+      "age": "19 and above",
+      "barangay": "Palasan",
+      "sports": "Basketball",
+      "cluster": 0
+    },
+    {
+      "gender": "Male",
+      "age": "19 and above",
+      "barangay": "Poblacion I",
+      "sports": "Table Tennis",
+      "cluster": 1
+    },
+    {
+      "gender": "Male",
+      "age": "7-11 years old",
+      "barangay": "Poblacion IV",
+      "sports": "Basketball",
+      "cluster": 2
+    },
+    {
+      "gender": "Male",
+      "age": "12-18 years old",
+      "barangay": "Pagsawitan",
+      "sports": "Volleyball",
+      "cluster": 2
+    },
+    {
+      "gender": "Male",
+      "age": "12-18 years old",
+      "barangay": "Poblacion I",
+      "sports": "Badminton",
+      "cluster": 1
+    },
+    {
+      "gender": "Male",
+      "age": "19 and above",
+      "barangay": "Patimbao",
+      "sports": "Badminton",
+      "cluster": 0
+    },
+    {
+      "gender": "Male",
+      "age": "19 and above",
+      "barangay": "Gatid",
+      "sports": "Basketball",
+      "cluster": 0
+    },
+    {
+      "gender": "Male",
+      "age": "12-18 years old",
+      "barangay": "Poblacion V",
+      "sports": "Volleyball",
+      "cluster": 2
+    },
+    {
+      "gender": "Male",
+      "age": "19 and above",
+      "barangay": "Example Barangay",
+      "sports": "Basketball",
+      "cluster": 0
+    }
+  ],
+  "interest": [
+    {
+      "barangay": "Example Barangay",
+      "sports": "Basketball",
+      "count": 3
+    },
+    {
+      "barangay": "Poblacion I",
+      "sports": "Table Tennis",
+      "count": 2
+    },
+    {
+      "barangay": "Poblacion I",
+      "sports": "Badminton",
+      "count": 1
+    },
+    {
+      "barangay": "Pagsawitan",
+      "sports": "Volleyball",
+      "count": 1
+    },
+    {
+      "barangay": "Palasan",
+      "sports": "Basketball",
+      "count": 1
+    },
+    {
+      "barangay": "Patimbao",
+      "sports": "Badminton",
+      "count": 1
+    },
+    {
+      "barangay": "Gatid",
+      "sports": "Basketball",
+      "count": 1
+    },
+    {
+      "barangay": "Poblacion IV",
+      "sports": "Basketball",
+      "count": 1
+    },
+    {
+      "barangay": "Poblacion V",
+      "sports": "Volleyball",
+      "count": 1
+    }
+  ]
+}
