@@ -70,7 +70,8 @@ https://drive.google.com/drive/folders/1exxTmI_OKtOr795DS0nyYvVHyHvMPdI3?usp=sha
 * `package.json`: Project dependencies and scripts
 * `README.md`: Project documentation
 
-**Contributors:**
+# **Contributors:**
+
 CANDELARIA, ERNESTO B.
 
 * Team Leader / Developer / UI Designer
