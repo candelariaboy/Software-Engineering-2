@@ -2,8 +2,6 @@
 
 # GROUP-3
 
-**README.md**
-
 **Project Title:** Municipal of Sta. Cruz Sports Committee Program and Activity Monitoring System with Online Registration
 
 **Short Description:** This project is a web-based system designed to manage and monitor sports programs and activities of the Municipal of Sta. Cruz Sports Committee. The system allows for online registration, tracking of participant information, and monitoring of program activities.
@@ -34,7 +32,7 @@
 
 **How to Use / Run the Project:**
 
-1. Open a web browser and navigate to `http://localhost:3000`
+1. Open a web browser and navigate to `http://localhost:` or  `http://localhost:8080` depending on the port set in your xammp
 2. Click on the "Register" button to create a new account
 3. Fill out the registration form with the required information
 4. Click on the "Submit" button to register
@@ -44,7 +42,8 @@
 8. Fill out the registration form with the required information
 9. Click on the "Submit" button to register
 
-**Demo Video Link:** [Insert demo video link]
+**Demo Video Link:**
+https://drive.google.com/drive/folders/1exxTmI_OKtOr795DS0nyYvVHyHvMPdI3?usp=sharing
 
 **Folder Structure Description:**
 
