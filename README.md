@@ -71,8 +71,14 @@ https://drive.google.com/drive/folders/1exxTmI_OKtOr795DS0nyYvVHyHvMPdI3?usp=sha
 * `README.md`: Project documentation
 
 **Contributors:**
-
-* Ernesto B. Candelaria jr.
-* [Contributor 1]
-* [Contributor 2]
+CANDELARIA, ERNESTO B.
+* Team Leader / Developer / UI Designer
+BARBADILLO, BRENT JUSTINE P.
+* Back-End Developer
+OXINA, AZZALEAH FAITH G.
+* Documentation and Presentation
+TRILLANA, MARK JOSEPH C.
+* Back-End Developer / Database Manager
+LUNA, JOV MATTHEW
+* System Analyst 
 
